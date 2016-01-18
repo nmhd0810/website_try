@@ -1,0 +1,69 @@
+body{
+	background-image:url('back_green.jpg');
+height:2000px;}
+.header{
+	height: 100px;
+	background-image:url('white-flowers-hd-wallpapers-wedding-flowers-desktop-images.jpg');
+	background-position:left;
+}
+.header li{
+	display:inline;
+	margin-right:auto
+}
+span li{
+	display:inline;
+	float: right;
+}
+ul a{
+	display: :inline-block;
+	font-family: Arial;
+	font-size: 20px;
+	background-color: #3366aa;
+	border: 2px solid #ffffff;
+	padding: 3px;
+	border-radius: 6px;
+	color: #ffffff;
+	display:inline;
+	text-decoration: none;
+}
+a:hover { 
+    background-color: #4499cc;
+}
+h1{
+	position:fixed:;
+	font-variant:small-caps;
+	background-color:#ffffff;
+	margin: 20px 30px;
+	text-align:center;
+};
+.j{
+height: 500px;
+margin: 10px 10px;
+}
+.j img{
+	opacity:1.0;
+	width: 60%;
+	text-align: center;
+	position:relative;
+	left:20%;
+
+}
+img:hover{
+	opacity:0.88;
+}
+.table img{
+	height:100%;
+	width: 13%;
+	
+	
+}
+table{
+	position: center;
+	border: 3px solid #ffffff;
+	width: 100%;
+}
+
+};
+tr{
+	display:block;
+}

@@ -1,0 +1,55 @@
+body{
+	top:0px;
+	height:1000px;
+	background-color:#ccddee;
+	z-index: -1;	
+}
+.top{
+	display: inline;
+	z-index:100;
+}
+.float{
+	background-color: #ccaaee;
+	padding: 3px;
+	position:fixed;
+	opacity: 0.8;
+	z-index:1;
+}
+.nav{
+	font-size:23px;
+	color:#eeffff;
+	text-align:center;
+	background-color: #330033;
+}
+#background{
+	height:500px;
+	width: 80%;
+	background-image:url('white-flowers-hd-wallpapers-wedding-flowers-desktop-images.jpg');
+	margin: 20px auto;
+	top:0px;
+	left:0px;
+	background-repeat:none;
+	size:100% 100%;
+
+}
+.main{
+	background-color:#ffffff;
+	opacity:0.7;
+	height:80%;
+	width:75%;
+	margin: 30px 30px 50px ;
+
+}
+.paragraph{
+	margin: 60px;
+}
+h1{
+	top:30px;
+	font-variant:small-caps;
+	font-size: 20px;
+
+}
+h2{
+	font-variant:16px;
+	font-size: 14px;
+}
